@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Martin Arguelles Perez
-title: Robotics & UAS Developer
+title: Early-career Robotics & UAS Developer
 email: arguellesperez.m@gmail.com
 website: arguellesperezm.github.io
 
@@ -48,9 +48,9 @@ github_username:  arguellesperezm
 # about_title: About Me
 about_profile_image: images/my_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hello! 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>PX4</mark> and <mark>ROS</mark>
 
 content:
   - title: Projects # Title for the section
@@ -93,12 +93,18 @@ content:
         title: University of Nevada, Las Vegas
         caption: 2021
         sub_title: Bachelors of Science in Electrical Engineering
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          #        quote: >
+          #          Put a quote describing UNLV here
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          At UNLV, I gained the project experience to tackle novel problems.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    content:
+      - layout: left
+        title: College of Southern Nevada
+        caption: 2013
+        sub_title: Associate of Science
+        description: | # this will include new lines to allow paragraphs
+          While I was at CSN, I began tutoring other students which built my confidence in teamwork and independent learning.
 
   - title: A Little More About Me
     layout: text
