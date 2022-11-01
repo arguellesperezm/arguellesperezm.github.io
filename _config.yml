@@ -143,7 +143,7 @@ content:
       - layout: left
         title: University of Nevada, Las Vegas
         caption: |
-          3.7 GPA
+          3.7 GPA \n
           2021
         sub_title: Bachelors of Science in Electrical Engineering
           #        quote: >
@@ -154,7 +154,7 @@ content:
       - layout: left
         title: College of Southern Nevada
         caption: |
-          3.4 GPA
+          3.4 GPA \n
           2013
         sub_title: Associate of Science
         description: | # this will include new lines to allow paragraphs
