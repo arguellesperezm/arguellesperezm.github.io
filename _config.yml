@@ -142,9 +142,7 @@ content:
     content:
       - layout: left
         title: University of Nevada, Las Vegas
-        caption:
-          3.7 GPA \n
-          2021
+        caption: 2021 - GPA 3.6
         sub_title: Bachelors of Science in Electrical Engineering
           #        quote: >
           #          Put a quote describing UNLV here
@@ -153,9 +151,7 @@ content:
 
       - layout: left
         title: College of Southern Nevada
-        caption:
-          3.4 GPA \n
-          2013
+        caption: 2013 - GPA 3.4
         sub_title: Associate of Science
         description: | # this will include new lines to allow paragraphs
           While I was at CSN, I began tutoring other students which built my confidence in teamwork and independent learning.
