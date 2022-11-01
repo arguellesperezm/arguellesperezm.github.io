@@ -142,7 +142,7 @@ content:
     content:
       - layout: left
         title: University of Nevada, Las Vegas
-        caption: |
+        caption:
           3.7 GPA \n
           2021
         sub_title: Bachelors of Science in Electrical Engineering
@@ -153,7 +153,7 @@ content:
 
       - layout: left
         title: College of Southern Nevada
-        caption: |
+        caption:
           3.4 GPA \n
           2013
         sub_title: Associate of Science
