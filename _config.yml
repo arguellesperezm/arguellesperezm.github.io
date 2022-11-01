@@ -53,41 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>PX4</mark> and <mark>ROS</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      #      - layout: top-middle
-      #        title: Super awesome project
-      #        link: github.com/sproogen
-      #        # link_text: Project Website
-      #        additional_links:
-      #          - title:  sproogen/modern-resume-theme
-      #            icon: fab fa-github
-      #            url: github.com/sproogen/modern-resume-theme
-      #          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-      #          #   icon: fab fa-github
-      #          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-      #        quote: >
-      #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-      #        description: | # this will include new lines to allow paragraphs
-      #          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-      - layout: top-middle
-        title: Queit and Efficient Vertical Take-off and Landing Vehicle
-        #link: github.com/sproogen
-        # link_text: Project Website
-        #        additional_links:
-        #          - title:  sproogen/modern-resume-theme
-        #            icon: fab fa-github
-        #            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Unique capabilities of vertical lift and hover provides potential for exceptional access and mobility in both commercial and public good applications
-        description: | # this will include new lines to allow paragraphs
-          This project has the aim of developing a low-cost design for a vertical takeoff and landing (VTOL) vehicle.
-          The designs will be tilt-rotor vehicles, and the designs will be openly available for others to use and contribute to.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -136,6 +101,41 @@ content:
         description: | # this will include new lines to allow paragraphs
             Information from surveyors was used to create a photovoltaic (solar) system for residential projects.
             Electrical, mechanical, and structural factors were considered to create the optimal system.
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      #      - layout: top-middle
+      #        title: Super awesome project
+      #        link: github.com/sproogen
+      #        # link_text: Project Website
+      #        additional_links:
+      #          - title:  sproogen/modern-resume-theme
+      #            icon: fab fa-github
+      #            url: github.com/sproogen/modern-resume-theme
+      #          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+      #          #   icon: fab fa-github
+      #          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+      #        quote: >
+      #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+      #        description: | # this will include new lines to allow paragraphs
+      #          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+      - layout: top-middle
+        title: Queit and Efficient Vertical Take-off and Landing Vehicle
+        #link: github.com/sproogen
+        # link_text: Project Website
+        #        additional_links:
+        #          - title:  sproogen/modern-resume-theme
+        #            icon: fab fa-github
+        #            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Unique capabilities of vertical lift and hover provides potential for exceptional access and mobility in both commercial and public good applications
+        description: | # this will include new lines to allow paragraphs
+          This project has the aim of developing a low-cost design for a vertical takeoff and landing (VTOL) vehicle.
+          The designs will be tilt-rotor vehicles, and the designs will be openly available for others to use and contribute to.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
