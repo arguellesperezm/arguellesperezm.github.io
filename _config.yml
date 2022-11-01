@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Martin Arguelles Perez
-title: Early-career Robotics & UAS Developer
+title: Robotics & UAS Developer
 email: arguellesperez.m@gmail.com
 website: arguellesperezm.github.io
 
@@ -98,7 +98,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           At UNLV, I gained the project experience to tackle novel problems.
 
-    content:
       - layout: left
         title: College of Southern Nevada
         caption: 2013
